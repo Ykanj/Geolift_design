@@ -1,2 +1,3 @@
 # Geolift_design
-Submission for an Incrementality Testing Notebook for Cassandra
+
+This github repository contains the datasets, requirements, and the final notebook, for the challenge on incrementality test design and evaluation to be presented to Cassandra.
